@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<channel id="TVEIntEu.es"><name>TVE Internacional Europa/África ES</name><display-name>TVE Internacional Europa/África ES</display-name><icon src="https://static.epg.best/es/TVEIntEu.es.png"/></channel>
-
-<channel id="360TuneBox.pl"><name>360 TuneBox PL</name><display-name>360 TuneBox PL</display-name><icon src="https://static.epg.best/pl/360TuneBox.pl.png"/></channel>
 
 <channel id="DocuBox.pl"><name>DocuBox PL</name><display-name>DocuBox PL</display-name><icon src="https://static.epg.best/pl/DocuBox.pl.png"/></channel>
 
-  <programme start="20250804230200 +0200" stop="20250805002000 +0200" channel="ClanTVE.es">
+  <programme start="20250804230200 +0200" stop="20250805002000 +0200" channel="DocuBox.pl">
     <title lang="es">Águila Roja</title>
     <title lang="xx">TEMPORADA (T2)</title>
     <desc lang="es">Gonzalo de Montalvo decide vengar la muerte de su mujer. En la búsqueda del culpable acaba convirtiéndose en un secreto héroe justiciero, al que se conocerá como Águila roja.[(xmlsource:1393)]</desc>
