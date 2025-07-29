@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<channel id="TVEIntEu.es"><name>TVE Internacional Europa/África ES</name><display-name>TVE Internacional Europa/África ES</display-name><icon src="https://static.epg.best/es/TVEIntEu.es.png"/></channel>
+
+<channel id="360TuneBox.pl"><name>360 TuneBox PL</name><display-name>360 TuneBox PL</display-name><icon src="https://static.epg.best/pl/360TuneBox.pl.png"/></channel>
+
+<channel id="DocuBox.pl"><name>DocuBox PL</name><display-name>DocuBox PL</display-name><icon src="https://static.epg.best/pl/DocuBox.pl.png"/></channel>
+
+  <programme start="20250804230200 +0200" stop="20250805002000 +0200" channel="ClanTVE.es">
+    <title lang="es">Águila Roja</title>
+    <title lang="xx">TEMPORADA (T2)</title>
+    <desc lang="es">Gonzalo de Montalvo decide vengar la muerte de su mujer. En la búsqueda del culpable acaba convirtiéndose en un secreto héroe justiciero, al que se conocerá como Águila roja.[(xmlsource:1393)]</desc>
+    <credits>
+      <director>Marc Vigil</director>
+      <actor>Alberto San Juan</actor>
+      <actor>Francis Lorenzo</actor>
+      <actor>David Janer</actor>
+      <actor>Javier Gutiérrez</actor>
+      <actor>Pepa Aniorte</actor>
+      <actor>José Ángel Egido</actor>
+      <actor>Inma Cuesta</actor>
+      <actor>Guillermo Campra</actor>
+      <actor>Roger Berruezo</actor>
+      <actor>Miryam Gallego</actor>
+      <actor>Elisa Mouliaá</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="es">Series</category>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula5/MCLANTVP850580"/>
+    <episode-num system="xmltv_ns">.12.</episode-num>
+    <episode-num system="xmltv_ns">.0.</episode-num>
+    <episode-num system="xmltv_ns">.1.</episode-num>
+    <episode-num system="xmltv_ns">.2.</episode-num>
+    <episode-num system="xmltv_ns">.3.</episode-num>
+    <episode-num system="xmltv_ns">.4.</episode-num>
+    <episode-num system="xmltv_ns">.5.</episode-num>
+    <episode-num system="xmltv_ns">.6.</episode-num>
+    <star-rating system="ES">
+      <value>3.2</value>
+    </star-rating>
+  </programme>
+ <iepg name="1393"/>
+</tv>
